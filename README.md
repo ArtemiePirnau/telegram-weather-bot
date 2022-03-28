@@ -11,7 +11,7 @@ In conclusion, it showed you (the place you are looking for, the temperature, th
 ```
 /creator
 ```
-It shows you all the available commands
+It showed you the Github account of the creator of this bot
 # Installation
 First of all install all npm packages with the command:
 ```
